@@ -20,7 +20,7 @@ BASE_ACTIVITY = {
         'small_text': 'The one true editor',
         'small_image': 'vim_logo'
      },
-    'type': 'Programming !!!'
+    # 'type': 'Programming !!!'
  }
 
 CLIENT_ID = '589111267986243624'
